@@ -99,5 +99,5 @@ while starve_students:
         exit()
     if dollars >= 1000:
         print('You have won the game!')
-        print(f'Continue, This is Day {days} and you have {dollars} dollars. You now have a team of starving students.')
+        print(f'Continue, This is Day {days} and you have {dollars} dollars. You now have a team of starving students and have won the game!.')
         exit()
